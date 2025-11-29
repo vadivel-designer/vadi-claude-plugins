@@ -1,0 +1,15 @@
+{
+  "name": "notification-sound-plugin",
+  "owner": {
+    "name": "vadivel-designer",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "notification-sound",
+      "source": "https://github.com/vadivel-designer/notification-sound-plugin",
+      "description": "Plays a sound when Claude Code sends notifications or stops",
+      "version": "1.0.0"
+    }
+  ]
+}
